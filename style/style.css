@@ -1,0 +1,105 @@
+@media only screen and (max-width: 960px) {
+  .jumbotron {
+    width: 100% !important;
+  }
+}
+
+body {
+  margin-top: 3em;
+  font-size: 1.2rem;
+  font-family: sans-serif !important;
+}
+
+.jumbotron {
+  width:70%;
+  height: auto;
+  margin:0 auto;
+  /*background: #f5f5f5;*/
+  padding: 1rem 2rem;
+}
+
+.heading-size {
+  font-size: 6rem;
+}
+
+.subheading-size {
+  font-size: 1.8rem;
+}
+
+img {
+  width:100%;
+}
+
+.bottom-padding {
+  padding-bottom:2em;
+}
+
+#img-size {
+  width:75%;
+  margin: 0 auto;
+}
+
+.margin-top {
+  margin-top: 2rem;
+}
+
+.text-size {
+  font-size: 5rem;
+}
+
+.headline-text {
+  font-size:3.25rem;
+}
+
+div.offset-txt {
+  text-indent: 2.68rem !important;
+}
+
+.offset-txt {
+  text-indent: 2rem;
+}
+
+.h_line {
+  position: relative;
+  right: 0%;
+  height: 1px;
+  width: 92.9%;
+  margin: 1rem auto;
+  background: #000000;
+}
+
+p {
+  width: 92.8%;
+  margin:auto auto;
+}
+
+p::first-letter {
+  font-size: 150%;
+}
+
+ul {
+  display: inline-block;
+  width: 92.8%;
+  position: relative;
+  left: 6%;
+}
+
+.blockquote-box {
+  
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  width: 85%;
+  margin: 0 auto;
+  background: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.more-info {
+  width: 80%;
+  position: relative;
+  left: 8%;
+  margin-top: 2rem;
+}
+
